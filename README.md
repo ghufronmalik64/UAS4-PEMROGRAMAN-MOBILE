@@ -8,7 +8,8 @@
 
 
 
-Tutorial Membuat Aplikasi Catatan Keuangan dengan Android Studio
+# Tutorial Membuat Aplikasi Catatan Keuangan dengan Android Studio
+Aplikasi catatan keuangan ini akan memungkinkan pengguna untuk mencatat pengeluaran dan pemasukan mereka. Data keuangan akan disimpan dalam format JSON untuk kemudahan penyimpanan dan manipulasi data.
 
 # Tutorial Build with Android Studio
 https://youtu.be/qcG_krdm-Zs
